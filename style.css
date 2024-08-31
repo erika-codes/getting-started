@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-  max-width: 375px;
+  max-width: 370px;
 }
 
 .card {
@@ -34,5 +34,5 @@ img {
   font-size: 14px;
   font-weight: 400;
   color: hsl(216, 15%, 48%);
-  padding: 0 40px;
+  padding: 0 50px;
 }
