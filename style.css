@@ -9,25 +9,25 @@ body {
 }
 
 .container {
-  max-width: 370px;
+  max-width: 320px;
 }
 
 .card {
   padding: 20px;
   text-align: center;
   background-color: hsl(0, 0%, 100%);
-  border-radius: 3%;
+  border-radius: 20px;
 }
 
 img {
   width: 100%;
-  border-radius: 3%;
+  border-radius: 5px;
 }
 
 .title {
   font-size: 22px;
   font-weight: 700;
-  padding: 0 20px;
+  color: hsl(218, 44%, 22%);
 }
 
 .info {
